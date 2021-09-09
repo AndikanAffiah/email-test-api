@@ -90,7 +90,7 @@ const formTemplate = {
     "send_certificate": `
         <form onsubmit="return false" class="bg-white p-3 rounded">
         <span class="contact-form-title"><span class="font-weight-bold">Email Certificate API</span> Service</span>
-        <div class="wrap-input validate-input" data-validate="">
+        <div class="wrap-input validate-input d-none" data-validate="">
             <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="femiadenuga@mazzacash.com" disabled>
             <span class="shadow-input"></span>
         </div>
@@ -124,7 +124,7 @@ const formTemplate = {
     "sendmail": `
         <form onsubmit="return false" class="bg-white p-3 rounded">
             <span class="contact-form-title"><span class="font-weight-bold">Simple Mail API</span> Service</span>
-            <div class="wrap-input validate-input" data-validate="">
+            <div class="wrap-input validate-input d-none" data-validate="">
                 <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="femiadenuga@mazzacash.com" disabled>
                 <span class="shadow-input"></span>
             </div>
@@ -166,7 +166,7 @@ const formTemplate = {
     "sendmailwithtemplate": `
         <form onsubmit="return false" class="bg-white p-3 rounded">
             <span class="contact-form-title"><span class="font-weight-bold">Mail Template API</span> Service</span>
-            <div class="wrap-input validate-input" data-validate="">
+            <div class="wrap-input validate-input d-none" data-validate="">
                 <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="femiadenuga@mazzacash.com" disabled>
                 <span class="shadow-input"></span>
             </div>
@@ -208,7 +208,7 @@ const formTemplate = {
     "send_welcome": `
         <form onsubmit="return false" class="bg-white p-3 rounded">
             <span class="contact-form-title"><span class="font-weight-bold">Registration Mail API</span> Service</span>
-            <div class="wrap-input validate-input" data-validate="">
+            <div class="wrap-input validate-input d-none" data-validate="">
                 <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="femiadenuga@mazzacash.com" disabled>
                 <span class="shadow-input"></span>
             </div>
@@ -246,7 +246,7 @@ const formTemplate = {
     "awsmail-attachment":`
         <form id="attachment-form" onsubmit="return false" class="bg-white p-3 rounded">
             <span class="contact-form-title"><span class="font-weight-bold">Attachment Mail API</span> Service</span>
-            <div class="wrap-input validate-input" data-validate="">
+            <div class="wrap-input validate-input d-none" data-validate="">
                 <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="femiadenuga@mazzacash.com" disabled>
                 <span class="shadow-input"></span>
             </div>
@@ -292,7 +292,7 @@ const formTemplate = {
     "send_invitation": `
         <form onsubmit="return false" class="bg-white p-3 rounded">
             <span class="contact-form-title"><span class="font-weight-bold">Invitation Mail API</span> Service</span>
-            <div class="wrap-input validate-input" data-validate="">
+            <div class="wrap-input validate-input d-none" data-validate="">
                 <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="femiadenuga@mazzacash.com" disabled>
                 <span class="shadow-input"></span>
             </div>
@@ -330,7 +330,7 @@ const formTemplate = {
     "send_confirmation": `
         <form onsubmit="return false" class="bg-white p-3 rounded">
         <span class="contact-form-title"><span class="font-weight-bold">Confirmation Mail API</span> Service</span>
-        <div class="wrap-input validate-input" data-validate="">
+        <div class="wrap-input validate-input d-none" data-validate="">
             <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="femiadenuga@mazzacash.com" disabled>
             <span class="shadow-input"></span>
         </div>
