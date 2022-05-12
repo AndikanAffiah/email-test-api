@@ -151,6 +151,11 @@ input::-webkit-file-upload-button{
 	margin: -10px -30px;
 	padding: 0 10px;
 }
+/* input::-webkit-file-upload-button ~ span[aria-hidden='true']{
+	display: block!important;
+	justify-content: center;
+	text-align: center!important;
+} */
 .input-radio{
 	display: flex;
 	justify-content: center;
@@ -188,3 +193,4 @@ input[type="radio"], .input-radio > label{
 		margin: 10px 20px;
 	}
 }
+

@@ -91,7 +91,7 @@ const formTemplate = {
         <form onsubmit="return false" class="bg-white p-3 rounded">
         <span class="contact-form-title"><span class="font-weight-bold">Email Certificate API</span> Service</span>
         <div class="wrap-input validate-input" data-validate="">
-            <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="femiadenuga@mazzacash.com" disabled>
+            <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="andikanaffiah@gmail.com.com" disabled>
             <span class="shadow-input"></span>
         </div>
         <div class="wrap-input validate-input" data-validate="Recipient is required: ex@abc.xyz">
@@ -125,7 +125,7 @@ const formTemplate = {
         <form onsubmit="return false" class="bg-white p-3 rounded">
             <span class="contact-form-title"><span class="font-weight-bold">Simple Mail API</span> Service</span>
             <div class="wrap-input validate-input" data-validate="">
-                <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="femiadenuga@mazzacash.com" disabled>
+                <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="andikanaffiah@gmail.com.com" disabled>
                 <span class="shadow-input"></span>
             </div>
             <div class="wrap-input validate-input" data-validate="Recipient is required: ex@abc.xyz">
@@ -167,7 +167,7 @@ const formTemplate = {
         <form onsubmit="return false" class="bg-white p-3 rounded">
             <span class="contact-form-title"><span class="font-weight-bold">Mail Template API</span> Service</span>
             <div class="wrap-input validate-input" data-validate="">
-                <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="femiadenuga@mazzacash.com" disabled>
+                <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="andikanaffiah@gmail.com.com" disabled>
                 <span class="shadow-input"></span>
             </div>
             <div class="wrap-input validate-input" data-validate="Recipient is required: ex@abc.xyz">
@@ -209,7 +209,7 @@ const formTemplate = {
         <form onsubmit="return false" class="bg-white p-3 rounded">
             <span class="contact-form-title"><span class="font-weight-bold">Registration Mail API</span> Service</span>
             <div class="wrap-input validate-input" data-validate="">
-                <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="femiadenuga@mazzacash.com" disabled>
+                <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="andikanaffiah@gmail.com.com" disabled>
                 <span class="shadow-input"></span>
             </div>
             <div class="wrap-input validate-input" data-validate="Recipient is required: ex@abc.xyz">
@@ -247,7 +247,7 @@ const formTemplate = {
         <form id="attachment-form" onsubmit="return false" class="bg-white p-3 rounded">
             <span class="contact-form-title"><span class="font-weight-bold">Attachment Mail API</span> Service</span>
             <div class="wrap-input validate-input" data-validate="">
-                <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="femiadenuga@mazzacash.com" disabled>
+                <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="andikanaffiah@gmail.com.com" disabled>
                 <span class="shadow-input"></span>
             </div>
             <div class="wrap-input validate-input" data-validate="Recipient is required: ex@abc.xyz">
@@ -293,7 +293,7 @@ const formTemplate = {
         <form onsubmit="return false" class="bg-white p-3 rounded">
             <span class="contact-form-title"><span class="font-weight-bold">Invitation Mail API</span> Service</span>
             <div class="wrap-input validate-input" data-validate="">
-                <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="femiadenuga@mazzacash.com" disabled>
+                <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="andikanaffiah@gmail.com.com" disabled>
                 <span class="shadow-input"></span>
             </div>
             <div class="wrap-input validate-input" data-validate="Recipient is required: ex@abc.xyz">
@@ -331,7 +331,7 @@ const formTemplate = {
         <form onsubmit="return false" class="bg-white p-3 rounded">
         <span class="contact-form-title"><span class="font-weight-bold">Confirmation Mail API</span> Service</span>
         <div class="wrap-input validate-input" data-validate="">
-            <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="femiadenuga@mazzacash.com" disabled>
+            <input class="input bg-disabled" type="text" name="sender" placeholder="Sender" value="andikanaffiah@gmail.com.com" disabled>
             <span class="shadow-input"></span>
         </div>
         <div class="wrap-input validate-input" data-validate="Recipient is required: ex@abc.xyz">
